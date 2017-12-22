@@ -1,5 +1,5 @@
 body {
-	font: 16px Helvetica, Sans-Serif;
+	font: 18px time new roman, Sans-Serif;
 	background: url(noise.png);
 }
 
@@ -17,7 +17,7 @@ body {
 }
 
 #container {
-	width: 800px;
+	width: 700px;
 	margin: 40px auto 60px;
 }
 
@@ -47,7 +47,7 @@ body {
 }
 
 h3 {
-	border-bottom: 1px solid #999;
+	border-bottom: 1px solid #899;
 }
 
 h4{
