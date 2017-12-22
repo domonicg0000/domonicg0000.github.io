@@ -29,6 +29,8 @@ body {
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
 }
+#content-info {font-size:35px;
+}
 
 #content-summarycontent {
 	margin: 0 0 16px 0;
