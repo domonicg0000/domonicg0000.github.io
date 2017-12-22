@@ -1,6 +1,6 @@
 body {
 	font: 18px times new roman, times new roman;
-	background-color: lightblue;
+	background: url("blue.jpg");
 }
 
 #pic {
